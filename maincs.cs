@@ -77,7 +77,6 @@ namespace virk
             using (Pen pen = new Pen(borderColor, borderSize))
             {
                 e.Graphics.DrawRectangle(pen, new Rectangle(0, 0, this.Width - 1, this.Height - 1));
-
             }
         }
         private bool dragging = false;
