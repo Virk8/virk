@@ -79,9 +79,11 @@ namespace virk
                 e.Graphics.DrawRectangle(pen, new Rectangle(0, 0, this.Width - 1, this.Height - 1));
             }
         }
+
         private bool dragging = false;
         private Point dragCursorPoint;
         private Point dragFormPoint;
+
         private void maincs_MouseDown(object sender, MouseEventArgs e)
         {
             dragging = true;

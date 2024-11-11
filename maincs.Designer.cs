@@ -82,11 +82,11 @@
             this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button4.Font = new System.Drawing.Font("Constantia", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
-            this.button4.Location = new System.Drawing.Point(177, 12);
+            this.button4.Location = new System.Drawing.Point(180, 12);
             this.button4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button4.Name = "button4";
             this.button4.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.button4.Size = new System.Drawing.Size(78, 232);
+            this.button4.Size = new System.Drawing.Size(75, 232);
             this.button4.TabIndex = 3;
             this.button4.Text = "H\r\nI\r\nD\r\nE\r\n\r\nT\r\nH\r\nI\r\nS";
             this.button4.UseVisualStyleBackColor = true;
